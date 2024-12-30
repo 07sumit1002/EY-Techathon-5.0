@@ -1,14 +1,11 @@
-// frontend/src/App.js
-
-import React from 'react';
 import './App.css';
-import Chatbot from './chatbot';
+import Basic from "./components/Basic"
 
 function App() {
   return (
     <div className="App">
-      <h1>Government Scheme Portal</h1>
-      <Chatbot />
+      <h1>Shreyas</h1>
+      <Basic />
     </div>
   );
 }
