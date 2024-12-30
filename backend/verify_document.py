@@ -1,7 +1,7 @@
 # backend/verify_document.py
 
-import pytesseract
-from PIL import Image
+import pytesseract # type: ignore
+from PIL import Image # type: ignore
 import sys
 
 def verify_document(image_path):
