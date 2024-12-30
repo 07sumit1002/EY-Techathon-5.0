@@ -4,7 +4,7 @@ import Basic from "./components/Basic"
 function App() {
   return (
     <div className="App">
-      <h1>Shreyas</h1>
+      <h1>EY Techathon 5.0</h1>
       <Basic />
     </div>
   );
